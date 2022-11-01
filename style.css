@@ -1,0 +1,10 @@
+#central {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    padding:100px;
+}
+
+#announcement {
+    text-align:center;
+}
